@@ -1,0 +1,2 @@
+# Dependencias para app-macros.py (BIO-NUTRI DECK v5.6)
+colorama>=0.4.6
